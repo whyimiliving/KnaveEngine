@@ -1,2 +1,2 @@
 # KnaveEngine
-A 3D pixel Art engine for unity.
+A 3D Pixel Art engine for unity.
