@@ -1,25 +1,25 @@
 # Unity proje klasörü: "The Game"
 
 # Unity tarafından oluşturulan klasörler
-The Game/[Ll]ibrary/
-The Game/[Tt]emp/
-The Game/[Oo]bj/
-The Game/[Bb]uild/
-The Game/[Bb]uilds/
-The Game/[Ll]ogs/
-The Game/[Uu]ser[Ss]ettings/
+Knave Engine Test/[Ll]ibrary/
+Knave Engine Test/[Tt]emp/
+Knave Engine Test/[Oo]bj/
+Knave Engine Test/[Bb]uild/
+Knave Engine Test/[Bb]uilds/
+Knave Engine Test/[Ll]ogs/
+Knave Engine Test/[Uu]ser[Ss]ettings/
 
 # Bellek yakalamaları (büyük olabilir ve hassas veriler içerebilir)
-The Game/[Mm]emoryCaptures/
+Knave Engine Test/[Mm]emoryCaptures/
 
 # Kayıtlar (aşırı büyük olabilir)
-The Game/[Rr]ecordings/
+Knave Engine Test/[Rr]ecordings/
 
 # Asset Store araçları (kullanılmıyorsa açılabilir)
-/The Game/[Aa]ssets/AssetStoreTools*
+/Knave Engine Test/[Aa]ssets/AssetStoreTools*
 
 # JetBrains Rider eklentisi
-The Game/[Aa]ssets/Plugins/Editor/JetBrains*
+Knave Engine Test/[Aa]ssets/Plugins/Editor/JetBrains*
 
 # Visual Studio dosyaları
 .vs/
